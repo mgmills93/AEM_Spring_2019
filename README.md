@@ -10,4 +10,6 @@ ICE_Facility_List_11-06-2017-web_Copy.xlsx - Rivard Report dataset that gives de
 enforcement - this folder is dedicated to all information I will gather about ICE enforcement statistics.  
 table39_copy.xls - DHS data on ICE alien apprehensions by year.  
 
+Take_Home_Assignment_1_Mary_Mills.ipynb - my first submission of THA1  
+
 dhs_complete_copy.xlsx - this is the entire 2015 Yearbook of Immigration Statistics, which has 41 sheets.
