@@ -9,6 +9,7 @@ ICE_Facility_List_11-06-2017-web_Copy.xlsx - Rivard Report dataset that gives de
 
 enforcement - this folder is dedicated to all information I will gather about ICE enforcement statistics.  
 table39_copy.xls - DHS data on ICE alien apprehensions by year.  
+Secure_Communities_2017_Deportations.xlsx - Individual-level data of ICE arrests under the Secure Communities program from 2015 through 2017.  
 
 Take_Home_Assignment_1_Mary_Mills.ipynb - my first submission of THA1  
 
