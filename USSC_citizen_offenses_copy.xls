@@ -1,0 +1,361 @@
+<html xmlns="http://www.w3.org/TR/REC-html40" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta name="ProgId content=Excel.Sheet"/>
+<style>
+            table
+            {mso-displayed-decimal-separator:"\.";
+            mso-displayed-thousand-separator:"\,";}
+
+            @page
+                    {margin:1.0in .75in 1.0in .75in;
+                    mso-header-margin:.5in;
+                    mso-footer-margin:.5in;}
+            tr
+                    {mso-height-source:auto;}
+            col
+                    {mso-width-source:auto;}
+            br
+                    {mso-data-placement:same-cell;}
+            .basestyle
+                    {mso-number-format:General;
+                    text-align:general;
+                    vertical-align:bottom;
+                    white-space:nowrap;
+                    mso-rotate:0;
+                    mso-background-source:auto;
+                    mso-pattern:auto;
+                    color:windowtext;
+                    font-size:10.0pt;
+                    font-weight:400;
+                    font-style:normal;
+                    text-decoration:none;
+                    font-family:Arial;
+                    mso-generic-font-family:auto;
+                    mso-font-charset:0;
+                    border:none;
+                    mso-protection:locked visible;
+                    mso-style-name:Normal;
+                    mso-style-id:0;}
+
+              .col-heading
+                    {mso-style-parent:basestyle;
+                    font-weight:700;
+                    font-family:"Arial Unicode MS";
+                    mso-generic-font-family:auto;
+                    mso-font-charset:0;
+                    text-align:left;
+                    vertical-align:middle;
+                    border:.5pt solid black;
+                    mso-pattern:auto none;}
+
+              .row-heading
+                    {mso-style-parent:basestyle;
+                    font-weight:700;
+                    font-family:"Arial Unicode MS";
+                    mso-generic-font-family:auto;
+                    mso-font-charset:0;
+                    text-align:left;
+                    vertical-align:top;
+                    border-top:.5pt solid black;
+                    border-right:.5pt solid black;
+                    border-bottom:none;
+                    border-left:.5pt solid black;
+                    mso-pattern:auto none;}
+
+              .dataitem
+                    {mso-style-parent:basestyle;
+                    font-family:"Arial Unicode MS";
+                    mso-generic-font-family:auto;
+                    mso-font-charset:0;
+                    
+                    
+                    text-align:right;
+                    vertical-align:top;
+                    border:.5pt solid black;
+                    background:white;
+                    mso-pattern:auto none;}
+            </style>
+</head>
+<body>
+<table border="1">
+<tr>
+<th rowspan="1" colspan="2" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#F0F0F0"/>
+<th rowspan="1" colspan="2" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#F0F0F0">U.S. CITIZEN</th>
+<th rowspan="1" colspan="2" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#F0F0F0">NON-U.S. CITIZEN(+)</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#C0C0C0">PRIMARY OFFENSE</th>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#C0C0C0">TOTAL</th>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#C0C0C0">N</th>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#C0C0C0">%</th>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#C0C0C0">N</th>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="col-heading" bgcolor="#C0C0C0">%</th>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">TOTAL</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">66,365</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">39,376</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">59.3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">26,989</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">40.7</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Murder</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">72</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">62</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">86.1</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">10</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">13.9</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Manslaughter</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">62</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">62</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">100.0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">0.0</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Kidnapping/Hostage  Taking</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">62</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">52</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">83.9</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">10</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">16.1</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Sexual Abuse</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">649</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">610</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">94.0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">39</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">6.0</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Assault</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">773</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">727</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">94.0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">46</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">6.0</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Robbery</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">649</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">636</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">98.0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">13</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">2.0</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Arson</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">39</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">37</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">94.9</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">5.1</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Drugs - Trafficking</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">18,987</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">13,940</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">73.4</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">5,047</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">26.6</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Drugs - Communication Facility</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">262</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">222</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">84.7</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">40</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">15.3</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Drugs - Simple Possession</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,250</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">490</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">39.2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">760</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">60.8</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Firearms</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">8,054</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">7,578</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">94.1</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">476</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">5.9</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Burglary/B&amp;E</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">33</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">33</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">100.0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">0.0</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Auto Theft</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">64</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">61</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">95.3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">4.7</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Larceny</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">792</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">737</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">93.1</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">55</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">6.9</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Fraud</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">6,008</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">4,884</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">81.3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,124</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">18.7</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Embezzlement</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">390</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">378</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">96.9</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">12</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">3.1</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Forgery/Counterfeiting</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">371</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">324</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">87.3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">47</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">12.7</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Bribery</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">155</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">147</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">94.8</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">8</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">5.2</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Tax</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">432</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">411</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">95.1</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">21</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">4.9</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Money Laundering</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">675</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">463</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">68.6</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">212</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">31.4</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Racketeering/Extortion</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">938</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">816</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">87.0</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">122</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">13.0</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Gambling/Lottery</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">46</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">44</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">95.7</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">4.3</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Civil Rights</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">56</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">54</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">96.4</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">3.6</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Immigration</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">20,411</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,898</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">9.3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">18,513</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">90.7</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Child Pornography</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,809</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,743</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">96.4</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">66</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">3.6</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Prison Offenses</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">513</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">495</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">96.5</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">18</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">3.5</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Administration of Justice Offenses</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,059</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">923</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">87.2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">136</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">12.8</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Environmental/Wildlife</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">101</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">90</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">89.1</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">11</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">10.9</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">National Defense</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">87</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">53</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">60.9</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">34</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">39.1</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Antitrust</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">30</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">28</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">93.3</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">6.7</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#C0C0C0">Food &amp; Drug</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">83</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">74</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">89.2</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">9</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">10.8</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1" nowrap="nowrap" vertical-align="top" text-align="left" class="row-heading" bgcolor="#F0F0F0">Other Miscellaneous Offenses</th>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,453</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">1,304</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">89.7</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">149</td>
+<td bgcolor="#FFFFFF" nowrap="nowrap" valign="top" align="right">10.3</td>
+</tr>
+</table>
+</body>
+</html>
