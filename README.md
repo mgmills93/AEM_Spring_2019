@@ -7,6 +7,9 @@ crime - this folder contains all datasets collected on crime statistics in the U
 USSC_citizen_offenses_copy - a 2017 dataset from the U.S. Sentencing Commission that breaks down arrests in 2017 by primary offense and whether the criminal was a citizen or not.  
 USSC_race_offenses_copy - U.S. Sentencing Commission dataset that gives race distribution of primary offenses perpetrated by criminals in 2017.  
 
+demographics - this folder stores U.S. demographic (age, race, sex, etc.) data relevant to my study.  
+ACS_2016_Hisp_Pop_copy.csv - Data I generated through the U.S. Census website's American Fact Finder application. I filtered each available state by % Hispanic origin.  
+
 detention_centers - this folder contains all data on detention centers and prisons that hold individuals arrested by ICE.  
 ICE_Facility_List_11-06-2017-web_Copy.xlsx - Rivard Report dataset that gives detailed prison-level information about intstitutions holding ICE detainees nation-wide.    
 37135-0001-Data.tsv - the most recent Department of Justice Statics Annual Survey of Jails. This file gives prison-level demographic data on inmates, including sex, race, and citizenship status.    
