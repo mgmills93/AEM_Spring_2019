@@ -9,6 +9,7 @@ USSC_race_offenses_copy - U.S. Sentencing Commission dataset that gives race dis
 
 demographics - this folder stores U.S. demographic (age, race, sex, etc.) data relevant to my study.  
 ACS_2016_Hisp_Pop_copy.csv - Data I generated through the U.S. Census website's American Fact Finder application. I filtered each available state by % Hispanic origin.  
+ACS_2016_Total_Pop_copy.csv - Generated through the U.S. Census American Fact Finder. To be used in conjunction with the above dataset.  
 
 detention_centers - this folder contains all data on detention centers and prisons that hold individuals arrested by ICE.  
 ICE_Facility_List_11-06-2017-web_Copy.xlsx - Rivard Report dataset that gives detailed prison-level information about intstitutions holding ICE detainees nation-wide.    
