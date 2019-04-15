@@ -19,6 +19,8 @@ enforcement - this folder is dedicated to all information I will gather about IC
 table39_copy.xls - DHS data on ICE alien apprehensions by year.  
 Secure_Communities_2017_Deportations.xlsx - Individual-level data of ICE arrests under the Secure Communities program from 2015 through 2017.  
 
+SecureCommunities_FinalProject - this folder will contain all working files and datasets I will use in my final project.  
+
 THA3 - this folder is dedicated to all files used to complete THA3.  
 TH3_DataDictionary.xlsx	- data dictionary defining variables in THA3.  
 Take_Home_Assignment_3_Mary_Mills.ipynb	- python notebook containing data analysis.
