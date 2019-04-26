@@ -6,6 +6,8 @@ THA4_DataDictionary.xlsx - defines elements and dataframes included in my python
 
 THA4_Workflow.jpg - diagram describing the process I went through to complete this assignment.  
 
+THA4_stataresults.xlsx - Excel file with copied Stata linear regression results.  
+
 Take_Home_Assignment_4_Mary_Mills.ipynb - python notebook where I prepared the dataset I will use for my analysis.  
   
 final_ASJ15_set.csv	- American Survey of Jails set that I collapsed by State, and number of noncitizen ("NONCITZ") inmates in 2015.  
