@@ -11,3 +11,5 @@ Take_Home_Assignment_4_Mary_Mills.ipynb - python notebook where I prepared the d
 final_ASJ15_set.csv	- American Survey of Jails set that I collapsed by State, and number of noncitizen ("NONCITZ") inmates in 2015.  
 
 final_tha4_set.csv - final merged dataset with state-level noncitizen jail population and hispanic population by state.  
+
+tha4_fig.png - scatter plot of state-level data used for THA4.
