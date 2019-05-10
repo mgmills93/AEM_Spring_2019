@@ -7,3 +7,5 @@ Dataframe_Creation - .ipynb files used to create .csv data files I use in all an
 Datasets - contains all datasets I have created.  
 
 Figures - image files used in my final research paper.  
+
+FinalProject_DataDictionary - data dictionary listing all elements and dataframes used in my research project.  
