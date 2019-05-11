@@ -9,3 +9,5 @@ Datasets - contains all datasets I have created.
 Figures - image files used in my final research paper.  
 
 FinalProject_DataDictionary - data dictionary listing all elements and dataframes used in my research project.  
+
+FinalProject_SCValidation.ipynb - python notebook used to calculate figures for validation with TRAC data.  
