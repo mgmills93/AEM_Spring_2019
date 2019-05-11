@@ -10,4 +10,6 @@ Figures - image files used in my final research paper.
 
 FinalProject_DataDictionary - data dictionary listing all elements and dataframes used in my research project.  
 
+FinalProject_ResearchPaper - the final draft of my research paper.  
+
 FinalProject_SCValidation.ipynb - python notebook used to calculate figures for validation with TRAC data.  
